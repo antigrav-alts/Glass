@@ -1,3 +1,5 @@
+hello @maximus 😁
+
 # Glass
 
 Glass is a browser, code editor, and terminal in one app. Instead of switching between separate applications, everything lives in the same environment. Anyone can use the browser — developers also get an editor and terminal alongside it.
